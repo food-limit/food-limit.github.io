@@ -1,5 +1,4 @@
 # food-limit.github.io
-=========================
 
 Official website of Food Limit
 
