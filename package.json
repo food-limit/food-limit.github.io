@@ -1,12 +1,12 @@
 {
-  "name": "new-age",
-  "title": "New Age",
+  "name": "food-limit",
+  "title": "Food Limit",
   "version": "3.3.7",
-  "homepage": "http://startbootstrap.com/template-overviews/new-age",
-  "author": "Start Bootstrap",
+  "homepage": "https://food-limit.github.io",
+  "author": "Food Limit",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    "url": "https://github.com/food-limit"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+    "url": "https://github.com/food-limit/food-limit.github.io"
   },
   "dependencies": {
     "simple-line-icons": "^2.3.2"

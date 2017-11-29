@@ -9,9 +9,9 @@ url: "https://food-limit.github.io"
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 #data-ad-slot: 0123456789
 #data-ad-client: ca-pub-ABCD
-#google_ad_client: ca-pub-ABCD
+google_ad_client: ca-pub-7380281265540998
 
-google_analytics: "UA-xxxxxxxx-x"
+google_analytics: "UA-110385410-1"
 #addthis_id: ra-xxxxxxxxxxxx
 #disqus_account: xxxxxx
 
