@@ -1,0 +1,29 @@
+
+<section id="contact" class="contact bg-primary">
+    <div class="container">
+        <h2>Nous <i class="fa fa-heart"></i> les nouveaux ami(e)s !</h2>
+        <ul class="list-inline list-social">
+            {% for network in site.social %}
+            <li class="social-{{ network.title }}">
+                <a href="{{ network.url }}" class="btn-social btn-outline" target="_blank"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+</section>
+<footer>
+    <div class="container">
+        <p>&copy; 2017 Food Limit. Créé avec <i class="fa fa-heart"></i>  sur <a target="_blank" rel="nofollow" href="https://github.com/food-limit">Github</a>. Merci à <a target="_blank" rel="nofollow" href="https://it.linkedin.com/in/antoniotrento">Antonio Trento</a> pour ce thème. Tous droits réservés.</p>
+        <!--<ul class="list-inline">
+            <li>
+                <a href="#">Privacy</a>
+            </li>
+            <li>
+                <a href="#">Terms</a>
+            </li>
+            <li>
+                <a href="#">FAQ</a>
+            </li>
+        </ul>-->
+    </div>
+</footer>

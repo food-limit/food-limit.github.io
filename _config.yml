@@ -1,0 +1,33 @@
+# Site settings
+title: Food Limit, l'application qui ne vous fera plus gaspiller !
+email: foodlimitapp@gmail.com
+description: Terminé le gaspillage des denrées alimentaires grâce à Food Limit !
+
+baseurl: ""
+url: "https://food-limit.github.io"
+
+#Google Ad Words Data from scripts code (using Google responsive options) and ad client
+#data-ad-slot: 0123456789
+#data-ad-client: ca-pub-ABCD
+#google_ad_client: ca-pub-ABCD
+
+google_analytics: "UA-xxxxxxxx-x"
+#addthis_id: ra-xxxxxxxxxxxx
+#disqus_account: xxxxxx
+
+# Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
+social:
+  - title: twitter
+    url: https://twitter.com/foodlimitapp
+  - title: facebook
+    url: https://facebook.com/foodlimitapp
+  - title: github
+    url: http://github.com/food-limit
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","gulpfile.js","package.json","README.md"]
+gems: [jekyll-paginate, jekyll-feed]
